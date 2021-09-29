@@ -3,6 +3,16 @@ entries:
   alltube:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2021-09-29T19:47:52.208667138Z"
+    description: A Helm chart for Kubernetes
+    digest: 576f885a0ae9102dc6ff4df11f1ad244faeab0d8442548e6fe6d9e66eb6347c0
+    name: alltube
+    type: application
+    urls:
+    - https://github.com/Korni22/helm-charts/releases/download/alltube-0.1.1/alltube-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-09-29T19:43:11.483780345Z"
     description: A Helm chart for Kubernetes
     digest: d6b921ddb64899fc015b3c1ff5000643dbd20f3b300162283b0a7fb278b30fa9
@@ -42,4 +52,4 @@ entries:
     urls:
     - https://github.com/Korni22/helm-charts/releases/download/notifiarr-0.1.0/notifiarr-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-29T19:43:11.483790445Z"
+generated: "2021-09-29T19:47:52.208679439Z"
