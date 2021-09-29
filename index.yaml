@@ -3,6 +3,16 @@ entries:
   notifiarr:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2021-09-29T12:54:16.97824558Z"
+    description: A Helm chart for Kubernetes
+    digest: 307457965a343b1293bf655236b4c6a13a5e427204ea23eea6d7ecc118cb5b5e
+    name: notifiarr
+    type: application
+    urls:
+    - https://github.com/Korni22/helm-charts/releases/download/notifiarr-0.1.1/notifiarr-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-09-29T12:33:17.72520354Z"
     description: A Helm chart for Kubernetes
     digest: 430ed09065c9bcb5086572d31e54102492232425c1673868324706304ebb47dc
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/Korni22/helm-charts/releases/download/notifiarr-0.1.0/notifiarr-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-29T12:33:17.382436606Z"
+generated: "2021-09-29T12:54:16.97825308Z"
